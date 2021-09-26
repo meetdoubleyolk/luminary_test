@@ -2,16 +2,15 @@
 
 A test assignment project for Luminary.
 
-## Getting Started
+Flutter: 2.5.1
 
-This project is a starting point for a Flutter application.
+Project includes:
+1. Signin Option Screen
+2. Login Screen
+3. User Profile Screen.
+4. Settings Screen.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project will work with test user:
+- username: meet@doubleyolk.co
+- password: Admin@123
 
