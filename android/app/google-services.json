@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "517800773933",
+    "project_id": "luminraytest",
+    "storage_bucket": "luminraytest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517800773933:android:c627cf70f976a028fceba4",
+        "android_client_info": {
+          "package_name": "com.doubleyolk.luminarytest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517800773933-k6pvr7bescg3a2q0feo5b6vmcrnp2o4j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.doubleyolk.luminarytest",
+            "certificate_hash": "24935bd8f24d5a514d118fcfc4b7797f80b438b2"
+          }
+        },
+        {
+          "client_id": "517800773933-sms22cj3b926c2qs7jhj3j5ciuoklhps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVDYZzA77A0CIjShYfWCJD1BdOQDHh4H0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517800773933-sms22cj3b926c2qs7jhj3j5ciuoklhps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
